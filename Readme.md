@@ -1,1 +1,1 @@
-Olá, esse projeto ensina a estrutura básica do html
+Olá, esse projeto ensina sobre html e css
