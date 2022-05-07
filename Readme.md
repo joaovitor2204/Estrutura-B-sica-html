@@ -1,1 +1,1 @@
-Olá, aqui tera coisas sobre html e css
+Olá, aqui terá coisas sobre html e css
